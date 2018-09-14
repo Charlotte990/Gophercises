@@ -1,4 +1,4 @@
-Exercise Two on gophercises.com -> https://gophercises.com/exercises/urlshort
+Exercise [Two](https://gophercises.com/exercises/urlshort) on Gophercises.com
 
 Using the program:
 
