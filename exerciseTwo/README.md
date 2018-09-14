@@ -1,4 +1,4 @@
-Exercise [Two](https://gophercises.com/exercises/urlshort) on Gophercises.com
+Exercise [Two](https://gophercises.com/exercises/urlshort){:target="_blank"} on Gophercises.com
 
 Using the program:
 
